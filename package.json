@@ -1,0 +1,13 @@
+{
+  "name": "desafio-node-01",
+  "version": "1.0.0",
+  "description": "Desafio 01 da nova trilha de NodeJS do Ignite",
+  "main": "srx/server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Vitor Siqueira",
+  "license": "ISC"
+}
